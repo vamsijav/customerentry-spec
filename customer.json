@@ -1,0 +1,42 @@
+[
+    {
+        
+        "email": "test1@gmail.com",
+        "username": "first1",
+        "lastname": "last1",
+        "phone": "223-456-9789",
+        "address": "Atlanta"
+    },
+    {
+        
+        "email": "test2@gmail.com",
+        "username": "first2",
+        "lastname": "last2",
+        "phone": "454-895-6789",
+        "address": "Alabama"
+    },
+    {
+        
+        "email": "test3@gmail.com",
+        "username": "first3",
+        "lastname": "last3",
+        "phone": "212-345-7789",
+        "address": "New York"
+    },
+    {
+        
+        "email": "test4@gmail.com",
+        "username": "first4",
+        "lastname": "last4",
+        "phone": "123-456-7689",
+        "address": "Chicago"
+    },
+    {
+       
+        "email": "qrwer@gmail.com",
+        "username": "fadsf",
+        "lastname": "fsadf",
+        "phone": "fadsf",
+        "address": "fasdf"
+    }
+]
